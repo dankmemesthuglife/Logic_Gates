@@ -1,0 +1,9 @@
+U:\2015\ict\Logic_Gates\Logic_Gates\Logic_Gates\bin\Debug\Logic_Gates.exe.config
+U:\2015\ict\Logic_Gates\Logic_Gates\Logic_Gates\bin\Debug\Logic_Gates.exe
+U:\2015\ict\Logic_Gates\Logic_Gates\Logic_Gates\bin\Debug\Logic_Gates.pdb
+U:\2015\ict\Logic_Gates\Logic_Gates\Logic_Gates\obj\Debug\Logic_Gates.csprojResolveAssemblyReference.cache
+U:\2015\ict\Logic_Gates\Logic_Gates\Logic_Gates\obj\Debug\Logic_Gates.Form1.resources
+U:\2015\ict\Logic_Gates\Logic_Gates\Logic_Gates\obj\Debug\Logic_Gates.Properties.Resources.resources
+U:\2015\ict\Logic_Gates\Logic_Gates\Logic_Gates\obj\Debug\Logic_Gates.csproj.GenerateResource.Cache
+U:\2015\ict\Logic_Gates\Logic_Gates\Logic_Gates\obj\Debug\Logic_Gates.exe
+U:\2015\ict\Logic_Gates\Logic_Gates\Logic_Gates\obj\Debug\Logic_Gates.pdb
